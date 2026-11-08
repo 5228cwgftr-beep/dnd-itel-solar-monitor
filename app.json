@@ -1,0 +1,32 @@
+
+{
+  "expo": {
+    "name": "DND ITEL SOLAR MONITOR",
+    "slug": "dnd-itel-solar-monitor",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#10251d"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dnd.itelsolarmonitor"
+    },
+    "android": {
+      "package": "com.dnd.itelsolarmonitor",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#10251d"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
